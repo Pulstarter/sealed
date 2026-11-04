@@ -6,6 +6,8 @@ An illustrated mystery shaped by a short conversation and the player's choices. 
 
 **Source:** https://github.com/Pulstarter/sealed
 
+**Three-minute demo video:** https://youtu.be/tn5gi1lxKHY (unlisted, accessible by link; English captions and original music).
+
 ## What the public demo does
 
 The presentation entry uses **The Shelter Sheet**, an adventure generated earlier with Meta and reviewed before publication. This is labelled before play. Each run uses the same committed story and illustrations and records its own decisions and ending. It makes no new generation requests and needs no provider key to run locally.
