@@ -1,0 +1,37 @@
+{
+  "name": "sealed",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "dev": "tsx watch apps/server/src/main.ts",
+    "dev:web": "vite --config apps/web/vite.config.ts",
+    "test": "tsx --test packages/engine/test/*.test.ts apps/server/test/*.test.ts apps/web/test/*.test.ts",
+    "test:engine": "tsx --test packages/engine/test/*.test.ts",
+    "generate:h2": "node --env-file=.env.local --import tsx apps/server/src/generate-h2.ts",
+    "check": "tsc --noEmit && vue-tsc --noEmit -p apps/web/tsconfig.json",
+    "build": "tsc -p tsconfig.build.json && node ops/build-demo.mjs && vite build --config apps/web/vite.config.ts",
+    "start": "node dist/apps/server/src/main.js",
+    "diagnostics": "tsx apps/server/src/emotional-diagnostics.ts"
+  },
+  "dependencies": {
+    "vue": "^3.5.44"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@vitejs/plugin-vue": "^6.0.10",
+    "tsx": "^4.23.15",
+    "typescript": "5.9.3",
+    "vite": "^8.3.5",
+    "vue-tsc": "^3.3.13"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pulstarter/sealed.git"
+  },
+  "homepage": "https://sealed.patapalo.net/demo"
+}

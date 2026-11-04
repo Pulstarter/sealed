@@ -1,0 +1,17 @@
+node_modules/
+dist/
+data/
+output/
+auditoria/
+.superpowers/
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+.DS_Store
+coverage/
+test-results/
+.cache/

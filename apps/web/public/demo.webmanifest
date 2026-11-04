@@ -1,0 +1,11 @@
+{
+  "id": "/demo",
+  "name": "SEALED — Reviewed Meta demo",
+  "short_name": "SEALED",
+  "start_url": "/demo",
+  "scope": "/demo",
+  "display": "standalone",
+  "background_color": "#081b27",
+  "theme_color": "#081b27",
+  "lang": "en"
+}

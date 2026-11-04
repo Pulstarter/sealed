@@ -1,0 +1,45 @@
+{
+  "stylesheet": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap",
+  "files": [
+    {
+      "file": "dm-sans-1.woff2",
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2"
+    },
+    {
+      "file": "dm-sans-2.woff2",
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2"
+    },
+    {
+      "file": "libre-caslon-display-3.woff2",
+      "source": "https://fonts.gstatic.com/s/librecaslondisplay/v18/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfxldCA.woff2"
+    },
+    {
+      "file": "libre-caslon-display-4.woff2",
+      "source": "https://fonts.gstatic.com/s/librecaslondisplay/v18/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxk.woff2"
+    },
+    {
+      "file": "libre-caslon-text-5.woff2",
+      "source": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DGiO1.woff2"
+    },
+    {
+      "file": "libre-caslon-text-6.woff2",
+      "source": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDGg.woff2"
+    },
+    {
+      "file": "libre-caslon-text-7.woff2",
+      "source": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-JbHg.woff2"
+    },
+    {
+      "file": "libre-caslon-text-8.woff2",
+      "source": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-I.woff2"
+    },
+    {
+      "file": "libre-caslon-text-9.woff2",
+      "source": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPx6Msg.woff2"
+    },
+    {
+      "file": "libre-caslon-text-10.woff2",
+      "source": "https://fonts.gstatic.com/s/librecaslontext/v5/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdkPx4.woff2"
+    }
+  ]
+}
